@@ -5,7 +5,6 @@ Created on Sat Jun  18 14:48:05 2020
 @author: Chingiz
 """
 
-
 import numpy as np
 import gym
 import tensorflow as tf
